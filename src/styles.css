@@ -3,10 +3,18 @@
   text-align: center;
 }
 
-.ChildComponentDiv-1 {
-  font-family: sans-serif;
-  text-align: center;
-  background-color: rgb(232, 225, 238);
-  text-shadow :rgb(29, 27, 34)
-  text-decoration-color: chartreuse;
+#circle {
+  position: relative;
+  background-color: #09f;
+  margin: 20px auto;
+  width: 400px;
+  height: 400px;
+  border-radius: 200px;
+}
+#text {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  color: #fff;
 }
