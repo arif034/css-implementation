@@ -4,8 +4,9 @@ class App extends Component {
   render() {
     return (
       <div className="App">
-        <div id="circle">
-          <div id="text">Text in the circle</div>
+        <div className="circle">
+          <div className="text">Text in the circle</div>
+          <div className="radius"></div>
         </div>
       </div>
     );
