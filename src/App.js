@@ -1,13 +1,8 @@
 import "./styles.css";
 import { Component } from "react";
-import ChildComponent from "./ChildComponent.js";
 class App extends Component {
   render() {
-    return (
-      <div className="App">
-        <ChildComponent className="ChildComponentDiv-1" />
-      </div>
-    );
+    return <div className="App">Hello World</div>;
   }
 }
 export default App;
