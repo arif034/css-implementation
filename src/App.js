@@ -1,8 +1,13 @@
 import "./styles.css";
 import { Component } from "react";
+import Circle from "./component/Circle.js";
 class App extends Component {
   render() {
-    return <div className="App">Hello World</div>;
+    return (
+      <div id="id-1" className="App">
+        <Circle />
+      </div>
+    );
   }
 }
 export default App;

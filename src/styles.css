@@ -1,27 +1,8 @@
 .App {
-  font-family: sans-serif;
-  text-align: center;
-}
-.circle {
-  background-color: #09f;
-  height: 400px;
-  width: 400px;
-  position: relative;
-  margin: 20px auto;
-  border-radius: 200px;
-}
-
-.text {
-  position: absolute;
-  left: 50%;
-  top: 50%;
+  background-color: aqua;
+  height: 300px;
+  width: 300px;
+  border-radius: 150px;
+  margin: 200px;
   transform: translate(-50%, -50%);
-  color: #fff;
-}
-
-.radius {
-  position: absolute;
-  background-color: #000;
-  height: 20px;
-  width: 400px;
 }
