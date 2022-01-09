@@ -1,5 +1,5 @@
 .circle-1 {
-  background-color: blue;
+  background-color: violet;
   height: 300px;
   width: 300px;
   border-radius: 150px;
@@ -8,7 +8,52 @@
 }
 
 .circle-2 {
+  background-color: indigo;
+  height: 300px;
+  width: 300px;
+  border-radius: 150px;
+  margin: 200px;
+  transform: translate(-50%, -50%);
+}
+
+.circle-3 {
+  background-color: blue;
+  height: 300px;
+  width: 300px;
+  border-radius: 150px;
+  margin: 200px;
+  transform: translate(-50%, -50%);
+}
+
+.circle-4 {
   background-color: green;
+  height: 300px;
+  width: 300px;
+  border-radius: 150px;
+  margin: 200px;
+  transform: translate(-50%, -50%);
+}
+
+.circle-5 {
+  background-color: yellow;
+  height: 300px;
+  width: 300px;
+  border-radius: 150px;
+  margin: 200px;
+  transform: translate(-50%, -50%);
+}
+
+.circle-6 {
+  background-color: orange;
+  height: 300px;
+  width: 300px;
+  border-radius: 150px;
+  margin: 200px;
+  transform: translate(-50%, -50%);
+}
+
+.circle-7 {
+  background-color: red;
   height: 300px;
   width: 300px;
   border-radius: 150px;
