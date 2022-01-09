@@ -1,5 +1,14 @@
-.circle {
-  background-color: aqua;
+.circle-1 {
+  background-color: blue;
+  height: 300px;
+  width: 300px;
+  border-radius: 150px;
+  margin: 200px;
+  transform: translate(-50%, -50%);
+}
+
+.circle-2 {
+  background-color: green;
   height: 300px;
   width: 300px;
   border-radius: 150px;
