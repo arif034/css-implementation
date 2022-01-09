@@ -119,4 +119,6 @@
 
 .button-1 {
   transform: translate(57px, 250px);
+  border-radius: 4px;
+  box-shadow: yellow;
 }
