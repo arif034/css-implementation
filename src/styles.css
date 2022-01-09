@@ -60,3 +60,63 @@
   margin: 200px;
   transform: translate(-50%, -50%);
 }
+
+.circle2-1 {
+  background-color: violet;
+  width: 200px;
+  height: 200px;
+  margin: 100px;
+  border-radius: 100px;
+}
+
+.circle2-2 {
+  background-color: indigo;
+  width: 200px;
+  height: 200px;
+  margin: 100px;
+  border-radius: 100px;
+}
+
+.circle2-3 {
+  background-color: blue;
+  width: 200px;
+  height: 200px;
+  margin: 100px;
+  border-radius: 100px;
+}
+
+.circle2-4 {
+  background-color: green;
+  width: 200px;
+  height: 200px;
+  margin: 100px;
+  border-radius: 100px;
+}
+
+.circle2-5 {
+  background-color: yellow;
+  width: 200px;
+  height: 200px;
+  margin: 100px;
+  border-radius: 100px;
+}
+
+.circle2-6 {
+  background-color: orange;
+  width: 200px;
+  height: 200px;
+  margin: 100px;
+  border-radius: 100px;
+}
+
+.circle2-7 {
+  background-color: red;
+  width: 200px;
+  height: 200px;
+  margin: 100px;
+  border-radius: 100px;
+}
+
+.button-1 {
+  transform: translate(57px, 250px);
+}
