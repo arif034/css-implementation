@@ -1,11 +1,11 @@
 import "./styles.css";
 import { Component } from "react";
-import Circle2 from "./component/Circle2.js";
+import ButtonComponent from "./component/ButtonComponent.js";
 class App extends Component {
   render() {
     return (
       <div id="id-1" className="App">
-        <Circle2 />
+        <ButtonComponent />
       </div>
     );
   }

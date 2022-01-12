@@ -122,3 +122,18 @@
   border-radius: 4px;
   box-shadow: yellow;
 }
+
+.btn-1 {
+  background-color: green;
+  color: white;
+  border: none;
+  padding: 40px;
+  transition: background-color;
+}
+
+.btn-1:hover {
+  background-color: red;
+  color: white;
+  border: none;
+  padding: 40px;
+}
