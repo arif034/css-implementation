@@ -11,5 +11,3 @@ class App extends Component {
   }
 }
 export default App;
-
-//http://web.simmons.edu/~grabiner/comm244/weekthree/css-basic-properties.html

@@ -124,16 +124,17 @@
 }
 
 .btn-1 {
-  background-color: green;
+  background-color: rgb(89, 150, 255);
   color: white;
   border: none;
   padding: 40px;
-  transition: background-color;
+  transition: all;
+  transform: translate(200px, 100px);
 }
 
 .btn-1:hover {
-  background-color: red;
+  background-color: rgb(100, 180, 255);
   color: white;
   border: none;
-  padding: 40px;
+  padding: 40.5px;
 }
